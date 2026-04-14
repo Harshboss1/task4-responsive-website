@@ -58,4 +58,4 @@ The layout automatically adjusts based on screen size:
 
 ## 👨‍💻 Author
 
-Your Name
+Harsh Walia
